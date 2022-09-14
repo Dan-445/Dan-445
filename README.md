@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**Dan-445/Dan-445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Danish Barkat Data Scientist & MLOps Engineer 👋
 
-Here are some ideas to get you started:
+### Portfolio 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1]: https://www.linkedin.com/in/danish-barkat-852496149/
+[2]: barkatdanish44@gmail.com
+
+
+Data Science, Machine learning in AWS & MLOps portfolio.
+
+Data Analytics Portfolio
+
+Data Science Portfolio
+
+MLOps Portfolio
+
+AWS Sagemaker Portfolio
+
+### About Me 🚀
+
+🎓 I'm a Data Science & MLOps Engineer my field of interest is AWS Machine learning with a special focus on MLOps & DataOps concepts, implement machine learning algorithm & Deep(Neural Network) in MLOps.
+
+👨‍💻 Extensive working experience in machine learning, AWS Machine learning, and building MLOps website/Application having 1 plus year of experience. & I enjoy learning new things about AI.
+
+### Skills 🎓
+
+MLOps using (ci-cd pipeline, DVC, mlflow, git-workflow, Heroku).
+AWS Sagemaker using (Built-in Algorithm like(blazing text, KNN, Xgboost, etc) script mode (TensorFlow, SKlearn, PyTorch, etc)).
+Data Visualization Matplotlib and Seaborn.
+Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn.
+Deep Learning with TensorFlow.
+Backend Development using Flask
+Computer Vission using CNN,YOLOV5/V6,VGG16,VGG19
