@@ -11,7 +11,7 @@ Data Science, Machine learning in AWS & MLOps portfolio.
 
 Data Analytics Portfolio
 
-### [Data Science Portfolio](https://github.com/Dan-445/yolov5-garbage-detection)
+### [Data Science Portfolio](https://github.com/Dan-445?tab=repositories)
 
 MLOps Portfolio
 
