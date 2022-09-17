@@ -13,6 +13,8 @@ Data Analytics Portfolio
 
 ### [Data Science Portfolio](https://github.com/Dan-445?tab=repositories)
 
+### [Freelance projects portfolio](https://github.com/Dan-445/Freelance-Projects-Food-Detection)
+
 MLOps Portfolio
 
 AWS Sagemaker Portfolio
