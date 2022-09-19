@@ -17,7 +17,7 @@ Data Science, Machine learning in AWS & MLOps portfolio.
 
 MLOps Portfolio
 
-AWS Sagemaker Portfolio
+### [AWS Sagemaker Portfolio](https://github.com/Dan-445/Freelance-Projects-Food-Detection)
 
 ### About Me 🚀
 
