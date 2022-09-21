@@ -9,7 +9,7 @@
 
 Data Science, Machine learning in AWS & MLOps portfolio.
 
-### [Data Analytics Portfolio](https://github.com/Dan-445/DataAnalytics)
+### [Data Analytics Portfolio](https://github.com/Dan-445/CovidVaccinationAnalysis-Tableau-sql)
 
 ### [Data Science Portfolio](https://github.com/Dan-445/Datascience)
 
