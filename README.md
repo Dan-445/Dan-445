@@ -2,9 +2,10 @@
 
 ### I am Danish Barkat Data Scientist & MLOps Engineer 👋
 
-### Portfolio 
+[![portfolio icon](https://image.flaticon.com/icons/png/512/2633/2633133.png)]([https://yourportfolio.com](https://github.com/Dan-445/Dan-445))
+ 
 
-###<a href="[https://www.linkedin.com/in/your_profile_url/](https://www.linkedin.com/in/danish-barkat-852496149/)"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/></a> || <a href="mailto:barkatdanish44@gmail.com">
+<a href="[https://www.linkedin.com/in/your_profile_url/](https://www.linkedin.com/in/danish-barkat-852496149/)"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/></a> || <a href="mailto:barkatdanish44@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30"/></a>
 
 
