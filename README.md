@@ -14,7 +14,7 @@ Data Science, Machine learning in AWS & MLOps portfolio.
 
 ### [Data Analytics Portfolio](https://github.com/Dan-445/DataAnalytics)
 
-### [Data Science Portfolio](https://github.com/Dan-445/Datascience)
+### [Data Science Portfolio](https://github.com/Dan-445/Datascience) ![alt data](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhevodata.com%2Flearn%2Fdata-science-companies%2F&psig=AOvVaw3GAsqmeA0GXa2eXv51qHCZ&ust=1681373735479000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICYp7Tzo_4CFQAAAAAdAAAAABAE)
 
 ### [Freelance projects portfolio](https://github.com/Dan-445/Freelance-Projects-Food-Detection)
 
