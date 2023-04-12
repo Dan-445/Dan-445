@@ -4,7 +4,10 @@
 
 ### Portfolio 
 
-### [Linkedin](https://www.linkedin.com/in/danish-barkat-852496149/)    ||    [Gmail](barkatdanish44@gmail.com)
+### [Linkedin](https://www.linkedin.com/in/danish-barkat-852496149/)    ||    [Gmail]<a href="mailto:barkatdanish44@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30"/>
+</a>
+
 
 
 Data Science, Machine learning in AWS & MLOps portfolio.
