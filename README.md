@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/Dan-445" alt="Profile views" align='right'/>
+  <img src="https://github.com/Dan-445" alt="Profile views" align='right'/>
   <a href="https://github.com/Dan-445/Dan-445/">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+%26+MLOps+Engineer;Experienced+in+AWS+Machine+Learning;Deep+Learning+Specialist;Always+learning+new+things&center=true&width=380&height=45">
   </a>
@@ -12,23 +12,39 @@
 
 ### About Me 🚀
 
-🎓 Harnessing the power of data to solve real-world challenges is my passion. 
+🎓 Harnessing the power of data to solve real-world challenges is my passion.
 
-👨‍💻 Here's a snapshot of my expertise:
-- **Object Detection and Classification**:
-  - NSFW content detection model (Python, Google Colab, YOLOv6, Flask)
-  - Innovative fire detection system (YOLOv6)
-  - Autonomous quadcopter for garbage identification (Python, Java, AWS SageMaker, TensorFlow Lite, Raspberry Pi4, SQL, Firebase)
-  - Traffic counter
-  - Sign language detector
-  - Weapons and aircraft detector
 
-- **Predictive Modeling and Data Analysis**:
-  - House price prediction (Linear Regression)
-  - Cryptocurrency price prediction
-  - Comprehensive COVID-19 death analysis
+
+👨‍💻 **Core Expertise:**
+- **Machine Learning/Deep Learning**: Specializing in neural networks, predictive modeling, and algorithm optimization to deliver accurate, scalable solutions.
+- **Computer Vision**: Experienced in image processing and object detection projects, utilizing tools like OpenCV, YOLO, TensorFlow, and PyTorch.
+- **Natural Language Processing (NLP)**: Proficient in utilizing NLP techniques for text analysis and interpretation with libraries like NLTK and spaCy.
+- **IoT and Robotics**: Developing smart devices and automation solutions using IoT technologies and robotics programming.
+- **Cloud Computing**: Leveraging AWS, Azure for scalable machine learning and data processing pipelines.
+- **Data Analysis and Visualization**: Skilled in transforming data into actionable insights using Python libraries (Pandas, Matplotlib, Seaborn) and visualization tools like Tableau and PowerBI.
 
 ---
+
+
+### 🚀 Certifications
+
+#### HackerRank Data Science Certification
+[![HackerRank](https://img.icons8.com/color/48/000000/hackerrank.png)](https://www.hackerrank.com/certificates/830e4ddea406)
+
+#### Simplilearn Data Science Certification
+[![Simplilearn](https://img.icons8.com/color/48/000000/simplilearn.png)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzUyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDEyODMyN18xNjc1MDI2MjMzLnBuZyIsInVzZXJuYW1lIjoiRGFuaXNoIEJhcmthdCAifQ)
+
+#### Coursera Machine Learning Certification
+[![Coursera](https://img.icons8.com/color/48/000000/coursera.png)](https://www.coursera.org/account/accomplishments/professional-cert/CPYBV7AEZU3Z)
+
+#### Credly Machine Learning Badge
+[![Credly](https://img.icons8.com/color/48/000000/credly.png)](https://www.credly.com/badges/8b701a99-1c79-4054-92ff-456e2d647236/linked_in_profile)
+
+#### Google Data Analytics Certification
+[![Google](https://img.icons8.com/color/48/000000/google-logo.png)](https://grow.google/dataanalytics/)
+
+
 
 ### 🌐 Connect with Me
 
@@ -37,7 +53,7 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.gif" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~01a9a00afda63ff8cf">
-    <img src="https://img.icons8.com/color/48/000000/upwork.png" width="40" height="40" alt="Upwork"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F331630%2Fupwork&psig=AOvVaw28G1L1aFwkwIyDa0pAPkt8&ust=1715767155795000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCnhfDwjIYDFQAAAAAdAAAAABAE" width="40" height="40" alt="Upwork"/>
   </a>
   <a href="https://www.fiverr.com/grayorb">
     <img src="https://img.icons8.com/color/48/000000/fiverr.png" width="40" height="40" alt="Fiverr"/>
@@ -51,56 +67,45 @@
 
 ### 🛠️ Skills and Tools
 
-#### Machine Learning/Deep Learning
+#### Programming Languages
 <p>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img alt="YOLO" src="https://img.shields.io/badge/YOLO-%23000000.svg?style=for-the-badge&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-#### Data Science
+#### Data Integration and Modeling Tools
 <p>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white">
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23D00000.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%231AB7EA.svg?style=for-the-badge&logo=Seaborn&logoColor=white">
+  <img alt="Informatica" src="https://img.shields.io/badge/Informatica-%23FFCA28.svg?style=for-the-badge&logo=informatica&logoColor=black">
+  <img alt="Erwin" src="https://img.shields.io/badge/Erwin-%23FFCA28.svg?style=for-the-badge&logo=erwin&logoColor=black">
 </p>
 
-#### Development Tools and Platforms
+#### Databases
 <p>
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img alt="AWS SageMaker" src="https://img.shields.io/badge/AWS_SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white">
-  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black">
 </p>
 
-#### IoT and Hardware
-<p>
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white">
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white">
-  <img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA_Jetson-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white">
-</p>
 
-#### Additional Skills in Computer Vision
-- **Mathematics**: Linear Algebra, Calculus, Probability, and Statistics.
-- **Programming**: Proficient in Python, C++, and MATLAB.
-- **Machine Learning Concepts**: Deep Learning, Feature Detection, Object Tracking.
-- **Computer Vision Theory**: CNNs, Image Processing, Pattern Recognition.
-- **Image Processing Techniques**: Enhancement, Restoration, Compression.
 
----
+### 🚀 Projects
 
-### 🌟 Collaboration is Key
-I'm a strong communicator, eager to work alongside you to achieve your project goals. Whether you're a startup or an established company, I'm committed to delivering results that exceed expectations.
+#### Asparagus Harvesting Robot
+- **Description**: A robotic system designed to automate the process of harvesting asparagus, increasing efficiency and reducing labor costs.
+- **Technologies**: ![Python](https://img.icons8.com/color/30/000000/python.png) Python, Machine Learning, Robotics, ![Image Processing](https://img.icons8.com/color/30/000000/image-processing.png) Image Processing.
 
-Ready to unleash the power of your data? Reach out today, and let's explore how my skills can propel your next AI-powered endeavor to success!
+#### Garbage Detection Drone
+- **Description**: An autonomous drone equipped with advanced sensors and cameras to identify and locate garbage in various environments.
+- **Technologies**: ![Python](https://img.icons8.com/color/30/000000/python.png) Python, Computer Vision, ![Machine Learning](https://img.icons8.com/color/30/000000/machine-learning.png) Machine Learning, IoT.
 
-#### Explore More
-<p align="center">
-  <a href="https://github.com/Dan-445">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" width="48" height="48" alt="GitHub"/>
-  </a>
-</p>
+#### Mini AI Vending Machine Based on Amazon Go Store Technology
+- **Description**: A miniaturized vending machine utilizing AI technologies to offer a grab-and-go shopping experience without traditional checkouts.
+- **Technologies**: ![TensorFlow](https://img.icons8.com/color/30/000000/tensorflow.png) TensorFlow, ![Python](https://img.icons8.com/color/30/000000/python.png) Python, Image Recognition.
+
+#### AI Car Parking Monitor
+- **Description**: An AI-powered system to monitor and manage car parking spaces efficiently, reducing congestion and optimizing usage.
+- **Technologies**: ![OpenCV](https://img.icons8.com/color/30/000000/opencv.png) OpenCV, ![Python](https://img.icons8.com/color/30/000000/python.png) Python, Computer Vision.
+
+#### Medical Image Segmentation for Brain Hemorrhage Detection
+- **Description**: Advanced image segmentation techniques applied to detect brain hemorrhages accurately from medical scans.
+- **Technologies**: ![PyTorch](https://img.icons8.com/color/30/000000/pytorch.png) PyTorch, ![Python](https://img.icons8.com/color/30/000000/python.png) Python, Deep Learning.
