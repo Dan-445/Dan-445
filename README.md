@@ -12,7 +12,7 @@
 
 ### About Me 🚀
 
-🎓 Harnessing the power of data to solve real-world challenges is my passion. With 4 years of experience and a diverse tech toolkit, I'm ready to transform your data into tangible outcomes.
+🎓 Harnessing the power of data to solve real-world challenges is my passion. 
 
 👨‍💻 Here's a snapshot of my expertise:
 - **Object Detection and Classification**:
