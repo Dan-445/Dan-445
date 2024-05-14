@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm Danish Barkat! 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <p align="center">
@@ -12,9 +12,21 @@
 
 ### About Me 🚀
 
-🎓 I specialize in **AWS Machine Learning** with a focus on **MLOps & DataOps**, implementing **machine learning algorithms & Deep Neural Networks**.
+🎓 Harnessing the power of data to solve real-world challenges is my passion. With 4 years of experience and a diverse tech toolkit, I'm ready to transform your data into tangible outcomes.
 
-👨‍💻 With over a year of experience, I have extensive knowledge in machine learning, AWS, and building MLOps websites/applications. I'm always excited to learn more about AI!
+👨‍💻 Here's a snapshot of my expertise:
+- **Object Detection and Classification**:
+  - NSFW content detection model (Python, Google Colab, YOLOv6, Flask)
+  - Innovative fire detection system (YOLOv6)
+  - Autonomous quadcopter for garbage identification (Python, Java, AWS SageMaker, TensorFlow Lite, Raspberry Pi4, SQL, Firebase)
+  - Traffic counter
+  - Sign language detector
+  - Weapons and aircraft detector
+
+- **Predictive Modeling and Data Analysis**:
+  - House price prediction (Linear Regression)
+  - Cryptocurrency price prediction
+  - Comprehensive COVID-19 death analysis
 
 ---
 
@@ -24,6 +36,12 @@
   <a href="https://www.linkedin.com/in/danish-barkat">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.gif" width="40" height="40" alt="LinkedIn"/>
   </a>
+  <a href="https://www.upwork.com/freelancers/~01fc7f2e1c4a32a941">
+    <img src="https://img.icons8.com/color/48/000000/upwork.png" width="40" height="40" alt="Upwork"/>
+  </a>
+  <a href="https://www.fiverr.com/danish_barkat">
+    <img src="https://img.icons8.com/color/48/000000/fiverr.png" width="40" height="40" alt="Fiverr"/>
+  </a>
   <a href="mailto:barkatdanish44@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40" height="40" alt="Gmail"/>
   </a>
@@ -31,7 +49,7 @@
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Skills and Tools
 
 #### Machine Learning/Deep Learning
 <p>
@@ -39,6 +57,7 @@
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
   <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img alt="YOLO" src="https://img.shields.io/badge/YOLO-%23000000.svg?style=for-the-badge&logoColor=white">
 </p>
 
 #### Data Science
@@ -49,36 +68,32 @@
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%231AB7EA.svg?style=for-the-badge&logo=Seaborn&logoColor=white">
 </p>
 
-#### Cloud
+#### Development Tools and Platforms
 <p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img alt="AWS SageMaker" src="https://img.shields.io/badge/AWS_SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white">
+  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black">
 </p>
 
-#### NLP
+#### IoT and Hardware
 <p>
-  <img alt="spaCy" src="https://img.shields.io/badge/spaCy-%2300BFFF.svg?style=for-the-badge&logo=spaCy&logoColor=white">
-  <img alt="NLTK" src="https://img.shields.io/badge/NLTK-%237CFC00.svg?style=for-the-badge&logo=nltk&logoColor=white">
-</p>
-
-#### APIs and Other Tools
-<p>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white">
+  <img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA_Jetson-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
 
 ---
 
-### Certifications 🎓
+### 🌟 Collaboration is Key
+I'm a strong communicator, eager to work alongside you to achieve your project goals. Whether you're a startup or an established company, I'm committed to delivering results that exceed expectations.
 
-- **Simplilearn Data Science Certification**
-  [![Simplilearn](https://img.icons8.com/clouds/100/000000/simplilearn.png)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzUyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDEyODMyN18xNjc1MDI2MjMzLnBuZyIsInVzZXJuYW1lIjoiRGFuaXNoIEJhcmthdCAifQ)
+Ready to unleash the power of your data? Reach out today, and let's explore how my skills can propel your next AI-powered endeavor to success!
 
-- **Coursera Professional Certificate in Data Science**
-  [![Coursera](https://img.icons8.com/clouds/100/000000/coursera.png)](https://www.coursera.org/account/accomplishments/professional-cert/CPYBV7AEZU3Z?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
-
-- **Credly Machine Learning Badge**
-  [![Credly](https://img.icons8.com/clouds/100/000000/credly.png)](https://www.credly.com/badges/8b701a99-1c79-4054-92ff-456e2d647236/linked_in_profile)
-
+#### Explore More
+<p align="center">
+  <a href="https://github.com/Dan-445">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" width="48" height="48" alt="GitHub"/>
+  </a>
+</p>
