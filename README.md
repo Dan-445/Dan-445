@@ -93,7 +93,7 @@
 
 #### Asparagus Harvesting Robot
 - **Description**: A robotic system designed to automate the process of harvesting asparagus, increasing efficiency and reducing labor costs.
-- **Technologies**: ![Python](https://img.icons8.com/color/30/000000/python.png) Python, ![Machine Learning](https://www.pngitem.com/pimgs/m/346-3460443_machin…learning-course-near-me-machine-learning-logo.png) Machine Learning, ![Robotics](https://w7.pngwing.com/pngs/21/963/png-transparent…-industrial-robot-robotics-angle-arm-industry.png) Robotics, ![Image Processing](https://img.icons8.com/color/30/000000/image-processing.png) Image Processing.
+- **Technologies**: ![Python](https://img.icons8.com/color/30/000000/python.png) Python,  Machine Learning,  Robotics, ![Image Processing](https://img.icons8.com/color/30/000000/image-processing.png) Image Processing.
 
 #### Garbage Detection Drone
 - **Description**: An autonomous drone equipped with advanced sensors and cameras to identify and locate garbage in various environments.
