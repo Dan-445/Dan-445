@@ -33,7 +33,7 @@
 [![HackerRank](https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg)](https://www.hackerrank.com/certificates/830e4ddea406)
 
 #### Simplilearn Data Science Certification
-[![Simplilearn](https://img.icons8.com/color/48/000000/simplilearn.png)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzUyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDEyODMyN18xNjc1MDI2MjMzLnBuZyIsInVzZXJuYW1lIjoiRGFuaXNoIEJhcmthdCAifQ)
+[![Simplilearn](https://www.simplilearn.com/ice9/assets/skillup-logo-new.svgz)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzUyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDEyODMyN18xNjc1MDI2MjMzLnBuZyIsInVzZXJuYW1lIjoiRGFuaXNoIEJhcmthdCAifQ)
 
 #### Coursera Machine Learning Certification
 [![Coursera](https://img.icons8.com/color/48/000000/coursera.png)](https://www.coursera.org/account/accomplishments/professional-cert/CPYBV7AEZU3Z)
