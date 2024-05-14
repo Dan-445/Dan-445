@@ -14,8 +14,6 @@
 
 🎓 Harnessing the power of data to solve real-world challenges is my passion.
 
-
-
 👨‍💻 **Core Expertise:**
 - **Machine Learning/Deep Learning**: Specializing in neural networks, predictive modeling, and algorithm optimization to deliver accurate, scalable solutions.
 - **Computer Vision**: Experienced in image processing and object detection projects, utilizing tools like OpenCV, YOLO, TensorFlow, and PyTorch.
@@ -25,7 +23,6 @@
 - **Data Analysis and Visualization**: Skilled in transforming data into actionable insights using Python libraries (Pandas, Matplotlib, Seaborn) and visualization tools like Tableau and PowerBI.
 
 ---
-
 
 ### 🚀 Certifications
 
@@ -38,14 +35,11 @@
 #### Coursera Machine Learning Certification
 [![Coursera](https://upload.wikimedia.org/wikipedia/commons/thu…20%29.svg/2560px-Coursera_logo_%282020%29.svg.png)](https://www.coursera.org/account/accomplishments/professional-cert/CPYBV7AEZU3Z)
 
-
 #### Credly Machine Learning Badge
 [![Credly](https://img.icons8.com/color/48/000000/credly.png)](https://www.credly.com/badges/8b701a99-1c79-4054-92ff-456e2d647236/linked_in_profile)
 
 #### Google Data Analytics Certification
 [![Google](https://img.icons8.com/color/48/000000/google-logo.png)](https://grow.google/dataanalytics/)
-
-
 
 ### 🌐 Connect with Me
 
@@ -87,7 +81,23 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black">
 </p>
 
-
+#### Skills
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white">
+  <img alt="Data Science" src="https://img.shields.io/badge/Data%20Science-%233776AB.svg?style=for-the-badge&logo=datascience&logoColor=white">
+  <img alt="Neural Network" src="https://img.shields.io/badge/Neural%20Network-%233776AB.svg?style=for-the-badge&logo=neuralnetwork&logoColor=white">
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?style=for-the-badge&logo=machinelearning&logoColor=white">
+  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-%2300C853.svg?style=for-the-badge&logo=deeplearning&logoColor=white">
+  <img alt="Logistic Regression" src="https://img.shields.io/badge/Logistic%20Regression-%233776AB.svg?style=for-the-badge&logo=logisticregression&logoColor=white">
+  <img alt="Linear Regression" src="https://img.shields.io/badge/Linear%20Regression-%233776AB.svg?style=for-the-badge&logo=linearregression&logoColor=white">
+  <img alt="Decision Tree" src="https://img.shields.io/badge/Decision%20Tree-%233776AB.svg?style=for-the-badge&logo=decisiontree&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img alt="Image Processing" src="https://img.shields.io/badge/Image%20Processing-%235C3EE8.svg?style=for-the-badge&logo=imageprocessing&logoColor=white">
+  <img alt="Image Recognition" src="https://img.shields.io/badge/Image%20Recognition-%235C3EE8.svg?style=for-the-badge&logo=imagerecognition&logoColor=white">
+</p>
 
 ### 🚀 Projects
 
