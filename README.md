@@ -53,7 +53,7 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.gif" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~01a9a00afda63ff8cf">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F331630%2Fupwork&psig=AOvVaw28G1L1aFwkwIyDa0pAPkt8&ust=1715767155795000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCnhfDwjIYDFQAAAAAdAAAAABAE" width="40" height="40" alt="Upwork"/>
+    <img src="http://www.w3.org/2000/svg" width="40" height="40" alt="Upwork"/>
   </a>
   <a href="https://www.fiverr.com/grayorb">
     <img src="https://img.icons8.com/color/48/000000/fiverr.png" width="40" height="40" alt="Fiverr"/>
