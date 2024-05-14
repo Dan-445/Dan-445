@@ -36,10 +36,10 @@
   <a href="https://www.linkedin.com/in/danish-barkat">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.gif" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~01fc7f2e1c4a32a941">
+  <a href="https://www.upwork.com/freelancers/~01a9a00afda63ff8cf">
     <img src="https://img.icons8.com/color/48/000000/upwork.png" width="40" height="40" alt="Upwork"/>
   </a>
-  <a href="https://www.fiverr.com/danish_barkat">
+  <a href="https://www.fiverr.com/grayorb">
     <img src="https://img.icons8.com/color/48/000000/fiverr.png" width="40" height="40" alt="Fiverr"/>
   </a>
   <a href="mailto:barkatdanish44@gmail.com">
@@ -62,9 +62,9 @@
 
 #### Data Science
 <p>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%231572B6.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23D00000.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%231AB7EA.svg?style=for-the-badge&logo=Seaborn&logoColor=white">
 </p>
 
@@ -83,6 +83,13 @@
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white">
   <img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA_Jetson-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
+
+#### Additional Skills in Computer Vision
+- **Mathematics**: Linear Algebra, Calculus, Probability, and Statistics.
+- **Programming**: Proficient in Python, C++, and MATLAB.
+- **Machine Learning Concepts**: Deep Learning, Feature Detection, Object Tracking.
+- **Computer Vision Theory**: CNNs, Image Processing, Pattern Recognition.
+- **Image Processing Techniques**: Enhancement, Restoration, Compression.
 
 ---
 
