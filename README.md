@@ -36,7 +36,8 @@
 [![Simplilearn](https://www.simplilearn.com/ice9/assets/skillup-logo-new.svgz)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzUyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDEyODMyN18xNjc1MDI2MjMzLnBuZyIsInVzZXJuYW1lIjoiRGFuaXNoIEJhcmthdCAifQ)
 
 #### Coursera Machine Learning Certification
-[![Coursera](https://e7.pngegg.com/pngimages/898/376/png-clipar…line-course-education-united-states-blue-text.png)](https://www.coursera.org/account/accomplishments/professional-cert/CPYBV7AEZU3Z)
+[![Coursera](https://img.icons8.com/color/48/000000/coursera.png)](https://www.coursera.org/account/accomplishments/professional-cert/CPYBV7AEZU3Z)
+
 
 #### Credly Machine Learning Badge
 [![Credly](https://img.icons8.com/color/48/000000/credly.png)](https://www.credly.com/badges/8b701a99-1c79-4054-92ff-456e2d647236/linked_in_profile)
