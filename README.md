@@ -36,7 +36,7 @@
 [![Coursera](https://miro.medium.com/v2/resize:fit:1400/1*ErQpF8e8pDOZSlxZBDdt_Q.png)](https://www.coursera.org/account/accomplishments/professional-cert/CPYBV7AEZU3Z)
 
 #### Credly Data Analytics Badge
-[![Credly](https://img.icons8.com/color/48/000000/credly.png)](https://www.credly.com/badges/8b701a99-1c79-4054-92ff-456e2d647236/linked_in_profile)
+[![Credly](https://images.credly.com/size/340x340/images/d41d…47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/8b701a99-1c79-4054-92ff-456e2d647236/linked_in_profile)
 
 #### Google Data Analytics Certification
 [![Google](https://img.icons8.com/color/48/000000/google-logo.png)](https://grow.google/dataanalytics/)
