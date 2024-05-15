@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm Danish Barkat! 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/0hv8d4HrDVI6m7w7pF/giphy.gif" width="30px">
 </h1>
 
 <p align="center">
