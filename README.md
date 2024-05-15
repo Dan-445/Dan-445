@@ -38,7 +38,7 @@ Welcome to my  GitHub profile!
 ## 🌐 Let's Connect!
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin-circled--v3.gif)](https://www.linkedin.com/in/danish-barkat)
-[![Upwork](https://icons-for-free.com/iff/png/256/Upwork-1329545834972375892.png)](https://www.upwork.com/freelancers/~01a9a00afda63ff8cf)
+[![Upwork](https://icons-for-free.com/iff/png/50/Upwork-1329545834972375892.png)](https://www.upwork.com/freelancers/~01a9a00afda63ff8cf)
 [![Fiverr](https://img.icons8.com/color/48/000000/fiverr.png)](https://www.fiverr.com/grayorb)
 [![Gmail](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:barkatdanish44@gmail.com)
 
