@@ -32,10 +32,10 @@
 #### Simplilearn Data Science Certification
 [![Simplilearn](https://www.simplilearn.com/ice9/assets/skillup-logo-new.svgz)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzUyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDEyODMyN18xNjc1MDI2MjMzLnBuZyIsInVzZXJuYW1lIjoiRGFuaXNoIEJhcmthdCAifQ)
 
-#### Coursera Machine Learning Certification
+#### Coursera Data Analytics Certification
 [![Coursera](https://miro.medium.com/v2/resize:fit:1400/1*ErQpF8e8pDOZSlxZBDdt_Q.png)](https://www.coursera.org/account/accomplishments/professional-cert/CPYBV7AEZU3Z)
 
-#### Credly Machine Learning Badge
+#### Credly Data Analytics Badge
 [![Credly](https://img.icons8.com/color/48/000000/credly.png)](https://www.credly.com/badges/8b701a99-1c79-4054-92ff-456e2d647236/linked_in_profile)
 
 #### Google Data Analytics Certification
