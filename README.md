@@ -35,8 +35,8 @@
 #### Coursera Data Analytics Certification
 [![Coursera](https://miro.medium.com/v2/resize:fit:1400/1*ErQpF8e8pDOZSlxZBDdt_Q.png)](https://www.coursera.org/account/accomplishments/professional-cert/CPYBV7AEZU3Z)
 
-#### Credly Data Analytics Badge
-[![Credly](https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png)](https://www.credly.com/badges/8b701a99-1c79-4054-92ff-456e2d647236/linked_in_profile)
+#### Credly Machine Learning Badge
+[![Credly](https://img.icons8.com/color/48/000000/credly.png)](https://www.credly.com/badges/8b701a99-1c79-4054-92ff-456e2d647236/linked_in_profile)
 
 #### Google Data Analytics Certification
 [![Google](https://img.icons8.com/color/48/000000/google-logo.png)](https://grow.google/dataanalytics/)
