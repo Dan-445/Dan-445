@@ -33,7 +33,7 @@
 [![Simplilearn](https://www.simplilearn.com/ice9/assets/skillup-logo-new.svgz)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzUyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDEyODMyN18xNjc1MDI2MjMzLnBuZyIsInVzZXJuYW1lIjoiRGFuaXNoIEJhcmthdCAifQ)
 
 #### Coursera Data Analytics Certification
-[![Coursera](https://miro.medium.com/v2/resize:fit:1400/1*ErQpF8e8pDOZSlxZBDdt_Q.png)](https://www.coursera.org/account/accomplishments/professional-cert/CPYBV7AEZU3Z)
+[![Coursera](https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png)](https://www.coursera.org/account/accomplishments/professional-cert/CPYBV7AEZU3Z)
 
 #### Credly Data Analytics Badge
 [![Credly](https://images.credly.com/size/340x340/images/d41d…47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/8b701a99-1c79-4054-92ff-456e2d647236/linked_in_profile)
