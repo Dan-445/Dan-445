@@ -1,10 +1,10 @@
 # Hi there, I'm Danish Barkat! 👋🚀
 
-Welcome to my  GitHub profile!
+Welcome to my GitHub profile!
 
 ![Profile views](https://github.com/Dan-445)
 
-[![Typing SVG]( https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+%26+MLOps+Engineer;+""""""Experienced+in+AWS+Machine+Learning;Deep+Learning+Specialist;Always+learning+new+things&center=true&width=380&height=45)](https://github.com/Dan-445/Dan-445/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+%26+MLOps+Engineer;Experienced+in+AWS+Machine+Learning;Deep+Learning+Specialist;Always+learning+new+things&center=true&width=500&height=50)](https://github.com/Dan-445/Dan-445/)
 
 ## 🌟 About Me 🌟
 
@@ -38,7 +38,7 @@ Welcome to my  GitHub profile!
 ## 🌐 Let's Connect!
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin-circled--v3.gif)](https://www.linkedin.com/in/danish-barkat)
-[![Upwork](https://icons-for-free.com/iff/png/256/Upwork-1329545834972375892.png)](https://www.upwork.com/freelancers/~01a9a00afda63ff8cf)
+[![Upwork](https://img.icons8.com/color/48/000000/upwork.png)](https://www.upwork.com/freelancers/~01a9a00afda63ff8cf)
 [![Fiverr](https://img.icons8.com/color/48/000000/fiverr.png)](https://www.fiverr.com/grayorb)
 [![Gmail](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:barkatdanish44@gmail.com)
 
@@ -57,7 +57,7 @@ Welcome to my  GitHub profile!
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### Additional Skills
+### Additional Skills
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -72,3 +72,28 @@ Welcome to my  GitHub profile!
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-%235C3EE8.svg?style=for-the-badge&logo=imageprocessing&logoColor=white)
 ![Image Recognition](https://img.shields.io/badge/Image%20Recognition-%235C3EE8.svg?style=for-the-badge&logo=imagerecognition&logoColor=white)
+
+## 🌟 Achievements and Projects
+
+### 🚀 Key Projects
+- **AI-Powered Traffic Management System**: Developed an AI-driven system for traffic analysis using computer vision and deep learning models.
+- **NLP-Based Sentiment Analysis**: Implemented a robust sentiment analysis tool for social media monitoring and trend analysis.
+- **IoT Smart Home Automation**: Designed and deployed a comprehensive home automation system integrating various IoT devices.
+
+### 🌟 Research and Publications
+- **Deep Learning in Healthcare**: Published a paper on the application of deep learning techniques for early disease detection.
+- **NLP for Customer Insights**: Co-authored a research article on using NLP to extract customer insights from unstructured data.
+
+## 🧠 AI Tools I Use
+- **GPT Models**: Utilizing advanced GPT models for natural language processing tasks.
+- **TensorFlow Extended (TFX)**: Building scalable machine learning pipelines with TFX.
+- **Amazon SageMaker**: Deploying machine learning models at scale using SageMaker.
+
+## 🌐 Connect With Me
+Feel free to reach out for collaborations, discussions, or just to connect!
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin-circled--v3.gif)](https://www.linkedin.com/in/danish-barkat)
+[![Upwork](https://img.icons8.com/color/48/000000/upwork.png)](https://www.upwork.com/freelancers/~01a9a00afda63ff8cf)
+[![Fiverr](https://img.icons8.com/color/48/000000/fiverr.png)](https://www.fiverr.com/grayorb)
+[![Gmail](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:barkatdanish44@gmail.com)
+
