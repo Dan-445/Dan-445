@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-![Profile views](https://github.com/Dan-445)
+![Profile views](https://komarev.com/ghpvc/?username=Dan-445&color=brightgreen)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+%26+MLOps+Engineer;Experienced+in+AWS+Machine+Learning;Deep+Learning+Specialist;Always+learning+new+things&center=true&width=500&height=50)](https://github.com/Dan-445/Dan-445/)
 
