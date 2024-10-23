@@ -58,20 +58,10 @@ Welcome to my GitHub profile!
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Additional Skills
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-%233776AB.svg?style=for-the-badge&logo=datascience&logoColor=white)
-![Neural Network](https://img.shields.io/badge/Neural%20Network-%233776AB.svg?style=for-the-badge&logo=neuralnetwork&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?style=for-the-badge&logo=machinelearning&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%2300C853.svg?style=for-the-badge&logo=deeplearning&logoColor=white)
-![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-%233776AB.svg?style=for-the-badge&logo=logisticregression&logoColor=white)
-![Linear Regression](https://img.shields.io/badge/Linear%20Regression-%233776AB.svg?style=for-the-badge&logo=linearregression&logoColor=white)
-![Decision Tree](https://img.shields.io/badge/Decision%20Tree-%233776AB.svg?style=for-the-badge&logo=decisiontree&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Image Processing](https://img.shields.io/badge/Image%20Processing-%235C3EE8.svg?style=for-the-badge&logo=imageprocessing&logoColor=white)
-![Image Recognition](https://img.shields.io/badge/Image%20Recognition-%235C3EE8.svg?style=for-the-badge&logo=imagerecognition&logoColor=white)
 
 ## 🌟 Achievements and Projects
 
@@ -97,3 +87,4 @@ Feel free to reach out for collaborations, discussions, or just to connect!
 [![Fiverr](https://img.icons8.com/color/48/000000/fiverr.png)](https://www.fiverr.com/grayorb)
 [![Gmail](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:barkatdanish44@gmail.com)
 
+Thanks for visiting my profile! I'm always open to collaboration and networking, so don't hesitate to reach out. Let's create something awesome together! 🚀
