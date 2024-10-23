@@ -19,23 +19,18 @@ Welcome to my GitHub profile!
 - **Data Analysis and Visualization**: Proficient in data wrangling, statistical analysis, and visual storytelling with tools like Python's Pandas, Matplotlib, Seaborn; and business intelligence platforms like Tableau and PowerBI.
 
 ## 🏅 Certifications
+Here are some certifications I’ve earned:
 
-### HackerRank Data Science Certification
-![HackerRank](https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg)
-
-### Simplilearn Data Science Certification
-![Simplilearn](https://www.simplilearn.com/ice9/assets/skillup-logo-new.svgz)
-
-### Coursera Data Analytics Certification
-![Coursera](https://miro.medium.com/v2/resize:fit:1400/1*ErQpF8e8pDOZSlxZBDdt_Q.png)
-
-### Credly Machine Learning Badge
-![Credly](https://img.icons8.com/color/48/000000/credly.png)
-
-### Google Data Analytics Certification
-![Google](https://img.icons8.com/color/48/000000/google-logo.png)
+| Certification | Badge |
+|---------------|-------|
+| HackerRank Data Science | ![HackerRank](https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg) |
+| Simplilearn Data Science | ![Simplilearn](https://www.simplilearn.com/ice9/assets/skillup-logo-new.svgz) |
+| Coursera Data Analytics | ![Coursera](https://miro.medium.com/v2/resize:fit:1400/1*ErQpF8e8pDOZSlxZBDdt_Q.png) |
+| Credly Machine Learning Badge | ![Credly](https://img.icons8.com/color/48/000000/credly.png) |
+| Google Data Analytics | ![Google](https://img.icons8.com/color/48/000000/google-logo.png) |
 
 ## 🌐 Let's Connect!
+Feel free to reach out for collaborations, discussions, or just to connect!
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin-circled--v3.gif)](https://www.linkedin.com/in/danish-barkat)
 [![Upwork](https://img.icons8.com/color/48/000000/upwork.png)](https://www.upwork.com/freelancers/~01a9a00afda63ff8cf)
@@ -43,6 +38,7 @@ Welcome to my GitHub profile!
 [![Gmail](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:barkatdanish44@gmail.com)
 
 ## 🛠️ Skills and Tools
+Here are some of the tools and technologies I work with regularly:
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -64,7 +60,6 @@ Welcome to my GitHub profile!
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ## 🌟 Achievements and Projects
-
 ### 🚀 Key Projects
 - **AI-Powered Traffic Management System**: Developed an AI-driven system for traffic analysis using computer vision and deep learning models.
 - **NLP-Based Sentiment Analysis**: Implemented a robust sentiment analysis tool for social media monitoring and trend analysis.
