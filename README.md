@@ -26,11 +26,11 @@
 
 ## 🏆 Certifications
 
-- ![HackerRank](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png) **[HackerRank Data Science Certification](https://www.hackerrank.com/)**
-- ![Simplilearn](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-simplilearn-is-an-online-education-provider-for-digital-skills-logo-color-tal-revivo.png) **[Simplilearn Data Science Certification](https://www.simplilearn.com/)**
-- ![Coursera](https://img.icons8.com/color/48/000000/coursera.png) **[Coursera Data Analytics Certification](https://www.coursera.org/)**
-- ![Credly](https://img.icons8.com/color/48/000000/credly.png) **[Credly Machine Learning Badge](https://www.credly.com/)**
-- ![Google](https://img.icons8.com/color/48/000000/google-logo.png) **[Google Data Analytics Certification](https://www.google.com/)**
+- ![HackerRank](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/00C853/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png) **[HackerRank Data Science Certification](https://www.hackerrank.com/)**
+- ![Simplilearn](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/FF6D00/external-simplilearn-is-an-online-education-provider-for-digital-skills-logo-color-tal-revivo.png) **[Simplilearn Data Science Certification](https://www.simplilearn.com/)**
+- ![Coursera](https://img.icons8.com/color/48/3B5998/coursera.png) **[Coursera Data Analytics Certification](https://www.coursera.org/)**
+- ![Credly](https://img.icons8.com/color/48/FF4081/credly.png) **[Credly Machine Learning Badge](https://www.credly.com/)**
+- ![Google](https://img.icons8.com/color/48/4285F4/google-logo.png) **[Google Data Analytics Certification](https://www.google.com/)**
 
 ---
 
