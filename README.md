@@ -4,9 +4,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dan-445&color=brightgreen)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+%26+ML+Engineer;Deep+Learning+Expert;Cloud+Computing+Enthusiast;Always+Learning+%F0%9F%92%AB;Let%27s+Build+Something+Amazing!&center=true&width=500&height=50)](https://github.com/Dan-445/Dan-445/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&color=36BCF7&size=26&pause=1000&center=true&width=500&lines=Data+Scientist+and+ML+Engineer;Deep+Learning+Expert+and+Researcher;Passionate+About+AI+and+Innovation)](https://github.com/Dan-445/Dan-445/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dan-445&theme=highcontrast&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dan-445&theme=transparent&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=FF5722&currStreakLabel=36BCF7)](https://git.io/streak-stats)
 
 ---
 
