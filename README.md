@@ -98,10 +98,10 @@ Developed an automation system for a connected home experience.
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin-circled--v3.gif)](https://www.linkedin.com/in/danish-barkat)
-[![Upwork](https://img.icons8.com/color/48/000000/upwork.png)](https://www.upwork.com/freelancers/~01a9a00afda63ff8cf)
-[![Fiverr](https://img.icons8.com/color/48/000000/fiverr.png)](https://www.fiverr.com/grayorb)
-[![Gmail](https://img.icons8.com/fluency/48/000000/gmail-new.png)](mailto:barkatdanish44@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish_Barkat-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+- ![Upwork](https://img.shields.io/badge/Upwork-Danish_Barkat-%2322A559?style=for-the-badge&logo=upwork&logoColor=white)
+- ![Fiverr](https://img.shields.io/badge/Fiverr-Danish_Barkat-%2300B22D?style=for-the-badge&logo=fiverr&logoColor=white)
+- ![Gmail](https://img.shields.io/badge/Gmail-barkatdanish44@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
