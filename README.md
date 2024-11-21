@@ -4,7 +4,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dan-445&color=brightgreen)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan-445&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## 🌟 Live GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan-445&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dan-445&theme=highcontrast&border_radius=5)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-445&layout=compact&theme=radical)](https://github.com/Dan-445)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+%26+ML+Engineer;Deep+Learning+Expert;Cloud+Computing+Enthusiast;Always+Learning+%F0%9F%92%AB;Let%27s+Build+Something+Amazing!&center=true&width=500&height=50)](https://github.com/Dan-445/Dan-445/)
 
@@ -14,14 +20,15 @@
 
 ## 🌟 About Me
 
-🚀 I’m a **Data Scientist** and **Machine Learning Engineer** who loves to transform data into actionable insights and meaningful applications. Whether it's **Machine Learning**, **Computer Vision**, **NLP**, or **IoT & Robotics**, I'm always pushing the boundaries of what's possible with data.
+🚀 I’m a **Data Scientist** and **Machine Learning Engineer** who loves to transform data into actionable insights and meaningful applications. Whether it's **Machine Learning**, **Computer Vision**, **NLP**, **IoT**, or **Robotics**, I'm always pushing the boundaries of what's possible with data.
 
 ### 🔑 Core Expertise:
 - **Machine Learning & Deep Learning**: Mastering algorithms to make smart predictions, build neural networks, and deploy ML models for real-world impact.
+- **Generative AI**: Exploring cutting-edge models like **Llama**, **OpenAI GPT**, **OLAMa**, and other generative frameworks to build conversational AI, creative content generation, and problem-solving solutions.
+- **IoT**: Building and deploying smart devices and systems using platforms like **Raspberry Pi**, **Jetson Nano**, **Arduino**, and **ESP32** for automation and real-time data processing.
 - **Computer Vision**: From object detection to complex image analysis, using tools like OpenCV, YOLO, TensorFlow, and PyTorch.
 - **Natural Language Processing (NLP)**: Text analysis, sentiment analysis, and language generation with NLTK, spaCy, and GPT.
-- **IoT & Robotics**: Designing and deploying automation solutions for smart environments.
-- **Cloud Computing**: Deploying and scaling solutions with AWS and Azure.
+- **Cloud Computing**: Deploying and scaling solutions with AWS, Azure, and Google Cloud.
 - **Data Analysis & Visualization**: Storytelling through data with Python’s Pandas, Matplotlib, Seaborn, and BI platforms like Tableau and Power BI.
 
 ---
@@ -43,6 +50,12 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### IoT Platforms & Hardware
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-%23008000.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%23FF0000.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23001C26.svg?style=for-the-badge&logo=esp32&logoColor=white)
+
 ### Data Integration and Modeling Tools
 ![Informatica](https://img.shields.io/badge/Informatica-%23FFCA28.svg?style=for-the-badge&logo=informatica&logoColor=black)
 ![Erwin](https://img.shields.io/badge/Erwin-%23FFCA28.svg?style=for-the-badge&logo=erwin&logoColor=black)
@@ -61,6 +74,11 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-%23DAA520.svg?style=for-the-badge&logo=llm&logoColor=white)
+
+### Generative AI Frameworks
+![Llama](https://img.shields.io/badge/Llama-%23FF7F50.svg?style=for-the-badge&logo=llama&logoColor=white)
+![OLAMa](https://img.shields.io/badge/OLAMa-%23FF6347.svg?style=for-the-badge&logo=olama&logoColor=white)
+![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -82,7 +100,10 @@ Leveraging AI for traffic analysis, my system incorporates computer vision to ma
 Built a sentiment analysis tool to track trends and emotions on social media.
 
 ### 🔹 IoT Smart Home Automation
-Developed an automation system for a connected home experience.
+Developed an automation system for a connected home experience using **Raspberry Pi**, **Arduino**, and **ESP32**.
+
+### 🔹 Generative AI for Creative Content
+Created a generative model using **Llama** and **OpenAI GPT** to generate unique textual content for blogs, articles, and reports, with applications in personalized content creation.
 
 ### 🌟 Publications
 - **Deep Learning in Healthcare**: Published on applying deep learning for early disease detection.
