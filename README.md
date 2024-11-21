@@ -14,7 +14,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+%26+ML+Engineer;Deep+Learning+Expert;Cloud+Computing+Enthusiast;Always+Learning+%F0%9F%92%AB;Let%27s+Build+Something+Amazing!&center=true&width=500&height=50)](https://github.com/Dan-445/Dan-445/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dan-445&theme=highcontrast&border_radius=5)](https://git.io/streak-stats)
 
 ---
 
