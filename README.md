@@ -6,7 +6,7 @@
 
 ## 🌟 Live GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan-445&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan-445&show_icons=true&count_private=true&hide=prs&theme=radical&hide_title=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dan-445&theme=highcontrast&border_radius=5)
 
