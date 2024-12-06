@@ -8,11 +8,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan-445&show_icons=true&count_private=true&hide=prs&theme=radical&hide_title=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dan-445&theme=highcontrast&border_radius=5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-445&layout=compact&theme=radical)](https://github.com/Dan-445)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+%26+ML+Engineer;Deep+Learning+Expert;Cloud+Computing+Enthusiast;Always+Learning+%F0%9F%92%AB;Let%27s+Build+Something+Amazing!&center=true&width=500&height=50)](https://github.com/Dan-445)
-
-**Note on Language Stats:** GitHub's language stats often treat **Jupyter Notebook** as a separate language, even though the underlying code is predominantly **Python**. In reality, **Python** is my primary programming language, followed by **C++**, **SQL**, and others for various tasks.
 
 ---
 
