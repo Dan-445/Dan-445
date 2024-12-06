@@ -49,7 +49,6 @@ I continuously explore the forefront of technology—**LLMs**, **Generative AI**
   <img src="https://img.shields.io/badge/Google-Data_Analytics_Certification-%234285F4?style=for-the-badge" />
 </p>
 
-*Continuous learning is key! These badges show my commitment to staying up-to-date and industry-ready.*
 
 ---
 
@@ -86,7 +85,6 @@ I continuously explore the forefront of technology—**LLMs**, **Generative AI**
 ![LLM](https://img.shields.io/badge/LLM-%23DAA520.svg?style=for-the-badge&logo=llm&logoColor=white)
 
 ### **Computer Vision**
-**All with a splash of color & emojis!**  
 - 🖼️ **OpenCV**  
 - 🎯 **YOLO (all variants)**  
 - ✂️ **Segment Anything Model (SAM)**  
@@ -100,7 +98,6 @@ I continuously explore the forefront of technology—**LLMs**, **Generative AI**
 - 🖼️🤖 **ImageAI**  
 - 🔌🖐️ **Mediapipe**
 
-*(These tools empower me to push the boundaries of image understanding, object detection, segmentation, and multimodal data analysis.)*
 
 ---
 
