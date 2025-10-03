@@ -1,4 +1,4 @@
-div align="center">
+
 
 <!-- Animated Header with Particles Effect -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DANISH%20BARKAT&fontSize=70&color=0:00ff87,50:60efff,100:ff006e&stroke=60efff&strokeWidth=2&fontColor=fff&animation=twinkling&desc=🚀%20Data%20Scientist%20|%20ML%20Engineer%20|%20AI%20Architect%20🚀&descAlignY=75&descSize=18" width="100%"/>
