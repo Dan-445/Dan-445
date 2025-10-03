@@ -71,33 +71,9 @@ console.log("🎯 Ready to innovate? Let's connect!");
 
 <br clear="right"/>
 
-<!-- Animated Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
----
 
-## 📊 GITHUB ANALYTICS DASHBOARD
 
-<div align="center">
-
-<!-- Dynamic Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dan-445&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00ff87&text_color=ffffff&ring_color=ff006e&fire_color=ff006e" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Dan-445&theme=radical&hide_border=true&background=0D1117&stroke=00ff87&ring=ff006e&fire=ff006e&currStreakLabel=00ff87&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e&sideLabels=ffffff" alt="GitHub Streak"/>
-
-<!-- Language Stats with Cool Design -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-445&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff87&text_color=ffffff&icon_color=00ff87&langs_count=10&hide=html,css,javascript" alt="Top Languages"/>
-
-<!-- Trophies with Animation -->
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Dan-445&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
-
-</div>
-
-<!-- 3D Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dan-445&custom_title=🔥%20Danish's%20Contribution%20Graph%20🔥&bg_color=0d1117&color=00ff87&line=ff006e&point=ffffff&area=true&area_color=00ff87&hide_border=true&height=350&radius=10" width="98%"/>
-</div>
 
 ---
 
@@ -151,6 +127,34 @@ console.log("🎯 Ready to innovate? Let's connect!");
 
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+## 📈 CODING ACTIVITY & METRICS
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dan-445&theme=radical" width="98%"/>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dan-445&theme=radical" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dan-445&theme=radical" width="100%"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dan-445&theme=radical" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dan-445&theme=radical" width="100%"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -323,34 +327,6 @@ console.log("🎯 Ready to innovate? Let's connect!");
 
 ---
 
-## 📈 CODING ACTIVITY & METRICS
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dan-445&theme=radical" width="98%"/>
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dan-445&theme=radical" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dan-445&theme=radical" width="100%"/>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dan-445&theme=radical" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dan-445&theme=radical" width="100%"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 💬 RANDOM DEV WISDOM
 
@@ -365,7 +341,12 @@ console.log("🎯 Ready to innovate? Let's connect!");
 </div>
 
 ---
+<!-- Animated Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
+---
 ## 🌐 LET'S CONNECT & COLLABORATE
 
 <div align="center">
