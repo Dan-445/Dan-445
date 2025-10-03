@@ -3,6 +3,11 @@
 <!-- Animated Header with Particles Effect -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DANISH%20BARKAT&fontSize=70&color=0:00ff87,50:60efff,100:ff006e&stroke=60efff&strokeWidth=2&fontColor=fff&animation=twinkling&desc=🚀%20Data%20Scientist%20|%20ML%20Engineer%20|%20AI%20Architect%20🚀&descAlignY=75&descSize=18" width="100%"/>
 
+<!-- Animated Typing Effect Name -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&color=00FF87&center=true&vCenter=true&repeat=true&width=600&lines=Hi+👋+I'm+Danish+Barkat;AI+Architect+🧙‍♂️;ML+Engineer+🤖;Data+Scientist+📊" alt="Typing SVG" />
+</h1>
+
 <!-- Animated Badges with Glow Effect -->
 <p>
   <img src="https://img.shields.io/badge/🎯_FOCUS-Artificial_Intelligence-00ff87?style=for-the-badge&labelColor=1a1a2e&color=00ff87" />
@@ -15,7 +20,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Dan-445&label=PROFILE+VIEWS&color=00ff87&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Dan-445?label=FOLLOWERS&style=for-the-badge&color=ff006e&labelColor=1a1a2e&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Dan-445?affiliations=OWNER&style=for-the-badge&color=60efff&labelColor=1a1a2e&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/Dan-445?affiliations=OWNER&label=STARS&style=for-the-badge&color=60efff&labelColor=1a1a2e&logo=github" alt="Stars"/>
 </p>
 
 <!-- Animated Divider -->
@@ -72,23 +77,43 @@ console.log("🎯 Ready to innovate? Let's connect!");
 
 <div align="center">
 
+<!-- Animated Section Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&width=500&lines=📈+My+GitHub+Journey+📈" alt="Analytics Header"/>
+
+<br><br>
+
 <!-- Dynamic Stats Cards -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dan-445&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00ff87&text_color=ffffff&ring_color=ff006e" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Dan-445&theme=radical&hide_border=true&background=0D1117&stroke=00ff87&ring=ff006e&fire=ff006e&currStreakLabel=00ff87&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e&sideLabels=ffffff" alt="GitHub Streak"/>
 
+<br><br>
+
+<!-- Language Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-445&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff87&text_color=ffffff&icon_color=00ff87&langs_count=8" alt="Top Languages"/>
+
+<!-- Trophies -->
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Dan-445&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A" alt="Trophies"/>
+
+<br><br>
+
 <!-- Enhanced Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dan-445&custom_title=🔥%20Contribution%20Activity%20Graph%20🔥&bg_color=0d1117&color=00ff87&line=ff006e&point=ffffff&area=true&area_color=00ff87&hide_border=true&height=300" width="98%"/>
 
-<!-- Trophies with Animation -->
-<img src="https://github-profile-trophy.vercel.app/?username=Dan-445&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A" width="98%" alt="Trophies"/>
-
 </div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ## 🎨 TECH STACK ARSENAL
 
 <div align="center">
+
+<!-- Animated Section Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=500&lines=⚡+My+Tech+Arsenal+⚡" alt="Tech Stack Header"/>
+
+<br><br>
 
 ### 🤖 AI/ML Frameworks
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="50"/>
@@ -146,6 +171,8 @@ console.log("🎯 Ready to innovate? Let's connect!");
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&width=800&lines=💎+MY+INNOVATIVE+SOLUTIONS+💎;🔥+TRANSFORMING+IDEAS+INTO+REALITY+🔥" alt="Projects Header"/>
 
 </div>
+
+<br>
 
 ### 🎯 AI & Computer Vision
 
@@ -273,6 +300,11 @@ console.log("🎯 Ready to innovate? Let's connect!");
 
 <div align="center">
 
+<!-- Animated Section Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=🏆+Achievements+%26+Badges+🏆" alt="Achievements Header"/>
+
+<br><br>
+
 <table>
 <tr>
 <td align="center" width="25%">
@@ -312,6 +344,10 @@ console.log("🎯 Ready to innovate? Let's connect!");
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=60EFFF&center=true&vCenter=true&width=500&lines=💡+Daily+Inspiration+💡" alt="Wisdom Header"/>
+
+<br><br>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
@@ -320,11 +356,19 @@ console.log("🎯 Ready to innovate? Let's connect!");
 
 </div>
 
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
 
 ## 🌐 LET'S CONNECT & COLLABORATE
 
 <div align="center">
+
+<!-- Animated Section Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&width=600&lines=🤝+Let's+Build+Something+Amazing!+🤝" alt="Connect Header"/>
+
+<br><br>
 
 <table>
 <tr>
@@ -389,6 +433,11 @@ console.log("🎯 Ready to innovate? Let's connect!");
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=900&lines=✨+Thanks+for+visiting!+✨;💫+Let's+build+something+amazing+together!+💫;🚀+Open+for+collaborations+%26+opportunities!+🚀;⭐+Don't+forget+to+star+my+repositories!+⭐" alt="Footer"/>
+
+<br><br>
+
+<!-- Profile Views Counter Animation -->
+<img src="https://count.getloli.com/get/@Dan-445?theme=rule34" alt="Profile Views Counter"/>
 
 <br><br>
 
