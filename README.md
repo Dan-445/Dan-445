@@ -18,7 +18,7 @@
 
 <!-- Profile Stats with Animation -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Dan-445&label=PROFILE+VIEWS&color=00ff87&style=for-the-badge&labelColor=1a1a2e" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Dan-445 label=PROFILE+VIEWS color=00ff87 style=for-the-badge labelColor=1a1a2e" alt=""/>
   <img src="https://img.shields.io/github/followers/Dan-445?label=FOLLOWERS&style=for-the-badge&color=ff006e&labelColor=1a1a2e&logo=github" alt=""/>
   <img src="https://img.shields.io/github/stars/Dan-445?label=STARS&style=for-the-badge&color=60efff&labelColor=1a1a2e&logo=github" alt=""/>
 </p>
