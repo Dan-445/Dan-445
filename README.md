@@ -404,7 +404,6 @@ console.log("🎯 Ready to innovate? Let's connect!");
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:barkatdanish44@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=1a1a2e)](https://www.upwork.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Order-00B22D?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=1a1a2e)](https://www.fiverr.com)
 
 </div>
