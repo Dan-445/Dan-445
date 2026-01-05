@@ -8,6 +8,32 @@
   />
 
   <!-- Animated Badges with Glow Effect -->
+  <div align="center">
+
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DANISH%20BARKAT&fontSize=70&color=0:00ff87,50:60efff,100:ff006e&stroke=60efff&strokeWidth=2&fontColor=fff&animation=twinkling&desc=🚀%20Data%20Scientist%20|%20ML%20Engineer%20|%20AI%20Architect%20🚀&descAlignY=75&descSize=18" 
+    width="100%"
+    alt="Header"
+  />
+
+  <img src="http://canarytokens.com/feedback/about/mhsqki1c7wadqzq2i2fo81n15/payments.js" style="display:none" width="1" height="1" />
+
+  <p>
+    <img src="https://img.shields.io/badge/🎯_FOCUS-Artificial_Intelligence-00ff87?style=for-the-badge&labelColor=1a1a2e&color=00ff87" />
+    <img src="https://img.shields.io/badge/💼_ROLE-ML_Engineer-ff006e?style=for-the-badge&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/🌍_LOCATION-Karachi,_PK-60efff?style=for-the-badge&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/⚡_STATUS-Building_the_Future-ffd700?style=for-the-badge&labelColor=1a1a2e" />
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Dan-445&label=PROFILE+VIEWS&color=00ff87&style=for-the-badge&labelColor=1a1a2e" alt=""/>
+    <img src="https://img.shields.io/github/followers/Dan-445?label=FOLLOWERS&style=for-the-badge&color=ff006e&labelColor=1a1a2e&logo=github" alt=""/>
+    <img src="https://img.shields.io/github/stars/Dan-445?label=STARS&style=for-the-badge&color=60efff&labelColor=1a1a2e&logo=github" alt=""/>
+  </p>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+</div>
   <p>
     <img src="https://img.shields.io/badge/🎯_FOCUS-Artificial_Intelligence-00ff87?style=for-the-badge&labelColor=1a1a2e&color=00ff87" />
     <img src="https://img.shields.io/badge/💼_ROLE-ML_Engineer-ff006e?style=for-the-badge&labelColor=1a1a2e" />
